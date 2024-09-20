@@ -29,8 +29,5 @@ cat /etc/protocols | sort -n -r -k 2 | head -n 5 | awk '{print $2" "$1}'
 ## Задача 3
 Написать программу banner средствами bash для вывода текстов, как в следующем примере (размер баннера должен меняться!):
 
-[root@localhost ~]# ./banner "Hello from RTU MIREA!"  
-+-----------------------+  
-| Hello from RTU MIREA! |  
-+-----------------------+ 
+
 ### Решение:
