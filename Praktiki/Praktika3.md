@@ -58,7 +58,7 @@ local students = [
 sudo apt install jsonnet
 ```
 
-2)  Создаем файл prakt3.jsonnet, добавляем в него код из условия и выводим результат
+2)  Создаем файл prakt3.jsonnet, добавляем в него код из условия и компилируем файл в json
 ![3pr1task](https://github.com/user-attachments/assets/60cf0fcd-0bb8-437f-906f-988482129dc1)
 
 
