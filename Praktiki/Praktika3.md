@@ -138,7 +138,8 @@ dhall-to-json <pr3_t2.dhall> pr3_t2.json
 cat pr3_t2.json
 ```
 
-![image](https://github.com/user-attachments/assets/362e08dd-6188-46f0-b797-6337eedddda7)
+![image](https://github.com/user-attachments/assets/cfa08496-28e4-4a0c-bccd-3c64d802277f)
+
 
 
 # _____________________________________________________________
